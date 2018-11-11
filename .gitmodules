@@ -3,7 +3,7 @@
 	url = https://github.com/PedroPascoal6/politician-lj.git
 [submodule "frontend/expressjs"]
 	path = frontend/expressjs
-	url = https://github.com/PedroPascoal6/politician-lj.git
+	url = https://github.com/PedroPascoal6/ojet-frontend
 [submodule "backend/faskapp"]
 	path = backend/faskapp
 	url = https://github.com/PedroPascoal6/fask-backend
