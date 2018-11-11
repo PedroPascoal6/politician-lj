@@ -1,0 +1,6 @@
+[submodule "backend/faskappSample"]
+	path = backend/faskappSample
+	url = https://github.com/PedroPascoal6/politician-lj.git
+[submodule "frontend/expressjs"]
+	path = frontend/expressjs
+	url = https://github.com/PedroPascoal6/politician-lj.git
