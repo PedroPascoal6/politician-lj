@@ -1,4 +1,3 @@
-
 # Politics Tech Challenge
 
 
@@ -43,3 +42,17 @@ python3 -m unittest (Unit Tests)
 # Front-End
 Front-End Deploy on Heroku: 
 https://tranquil-hamlet-22768.herokuapp.com
+
+1 - Clone de project
+
+2 - Install dependencies
+```
+npm install package.json
+```
+
+4 - Run
+```
+  - ojet serve on web-app-navbar 
+                or 
+  - node index.js on root
+```
