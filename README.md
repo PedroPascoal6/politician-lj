@@ -4,6 +4,7 @@
 # Backend
 WEB API deploy on Heroku:
 https://pure-mountain-71887.herokuapp.com/
+
 (/politicians) 
     -Get: List of politicians
     -Post: Send or get Out of Jail
@@ -11,6 +12,7 @@ https://pure-mountain-71887.herokuapp.com/
             politicianid :id,
             jail:bool
         }
+        
 (/support)
   - Post:  Generate Some Data
   -     > params : amount int
